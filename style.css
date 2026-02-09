@@ -1,0 +1,50 @@
+body {
+    background-color: #1c4b6f !important;
+}
+
+input {
+    width: 70%;
+    padding: 7px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #99b4dc !important;
+}
+
+label {
+    color: #ccc;
+}
+
+
+.container {
+    background-color: #6d1725;
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4);
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#header {
+    text-align: center;
+    color: #2E414B;
+    background-color:#99b4dc;
+    padding: 10px;
+    border-radius: 30px;
+    font-family: "Madimi One", serif;
+    font-weight: 400;
+    font-style: normal;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4);
+    margin-bottom: 20px;
+}
+
+h3 {
+    text-align: center;
+    color: #ccc !important;
+}
+
+button {
+    background-color: #99b4dc !important;
+    color: #2E414B !important;
+    width: 100%;
+}
